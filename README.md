@@ -25,4 +25,4 @@ JamSpace is a comprehensive music studio rental platform designed to help musici
 ## 📦 Installation Guide
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Kevincodesinbored/jamspace.git
+   git clone https://github.com/Kevincodesinbored/Jamspace-Studio
